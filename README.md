@@ -13,10 +13,10 @@ Automatic score calculation.
 Calculates the final percentage.
 Provides performance-based feedback.
 Simple and beginner-friendly command-line interface.
-🛠️ Technologies Used
+ Technologies Used
 Programming Language: Python
 Concepts: Lists, Dictionaries, Functions, Loops, Conditional Statements, User Input, and String Formatting.
-🚀 How to Run the Project
+ How to Run the Project
 Clone the repository:
 git clone <your-repository-url>
 
@@ -92,25 +92,25 @@ The robot randomly selects its choice.
 The program determines the winner of the round.
 The current scores of both players are displayed.
 Type quit to exit the game and view the final results.
-📏 Game Rules
+3. Game Rules
 Stone beats Scissor
 Paper beats Stone
 Scissor beats Paper
 If both players choose the same option, the round is a draw.
-📊 Scoring System
+4. Scoring System
 The human player's score increases by one for each round won.
 The robot's score increases by one for each round won.
 Draws do not increase either player's score.
 At the end of the game, the player with the higher score wins.
-🎯 Learning Objectives
+5. Learning Objectives
 
 
 
-3. Future Improvements
+6. Future Improvements
 Add a graphical user interface (GUI).
 Introduce a best-of-three or best-of-five mode.
 Add a timer for each round.
 Store game history and statistics.
 Allow users to choose difficulty levels.
-👨‍💻 Author
+ Author
 
